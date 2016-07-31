@@ -23,3 +23,5 @@ with open('/Users/luc/Downloads/result.txt','w') as out:
 		out.write('\n')
 	out.write(lout[len(lout) - 1])
 
+print('sss')
+
