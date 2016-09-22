@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 lines = list()
-with open('/Users/luc/Downloads/refund.txt','r') as f:
+with open('/Users/luc/Downloads/refound.txt','r') as f:
 	for line in f.readlines():
 		lines.append(line)
 
